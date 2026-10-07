@@ -1,0 +1,42 @@
+[
+  {
+    "id": "site-001",
+    "url": "https://example.com"
+  },
+  {
+    "id": "site-002",
+    "url": "https://example.org"
+  },
+  {
+    "id": "site-003",
+    "url": "https://www.wikipedia.org"
+  },
+  {
+    "id": "site-004",
+    "url": "https://www.mozilla.org"
+  },
+  {
+    "id": "site-005",
+    "url": "https://developer.mozilla.org"
+  },
+  {
+    "id": "site-006",
+    "url": "https://www.python.org"
+  },
+  {
+    "id": "site-007",
+    "url": "https://www.github.com"
+  },
+  {
+    "id": "site-008",
+    "url": "https://www.microsoft.com"
+  },
+  {
+    "id": "site-009",
+    "url": "https://www.apple.com"
+  },
+  {
+    "id": "site-010",
+    "url": "https://www.nasa.gov"
+  }
+]

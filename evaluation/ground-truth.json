@@ -1,0 +1,122 @@
+[
+  {
+    "siteId": "site-001",
+    "checks": {
+      "title_exists": true,
+      "meta_description_exists": false,
+      "canonical_exists": false,
+      "robots_exists": false,
+      "sitemap_exists": false,
+      "h1_count": 1,
+      "broken_links": 0
+    }
+  },
+  {
+    "siteId": "site-002",
+    "checks": {
+      "title_exists": true,
+      "meta_description_exists": false,
+      "canonical_exists": false,
+      "robots_exists": false,
+      "sitemap_exists": false,
+      "h1_count": 1,
+      "broken_links": 0
+    }
+  },
+  {
+    "siteId": "site-003",
+    "checks": {
+      "title_exists": true,
+      "meta_description_exists": true,
+      "canonical_exists": false,
+      "robots_exists": true,
+      "sitemap_exists": false,
+      "h1_count": 1,
+      "broken_links": 0
+    }
+  },
+  {
+    "siteId": "site-004",
+    "checks": {
+      "title_exists": true,
+      "meta_description_exists": true,
+      "canonical_exists": true,
+      "robots_exists": true,
+      "sitemap_exists": false,
+      "h1_count": 1,
+      "broken_links": 7
+    }
+  },
+  {
+    "siteId": "site-005",
+    "checks": {
+      "title_exists": true,
+      "meta_description_exists": true,
+      "canonical_exists": true,
+      "robots_exists": true,
+      "sitemap_exists": true,
+      "h1_count": 1,
+      "broken_links": 0
+    }
+  },
+  {
+    "siteId": "site-006",
+    "checks": {
+      "title_exists": true,
+      "meta_description_exists": true,
+      "canonical_exists": false,
+      "robots_exists": true,
+      "sitemap_exists": false,
+      "h1_count": 5,
+      "broken_links": 0
+    }
+  },
+  {
+    "siteId": "site-007",
+    "checks": {
+      "title_exists": true,
+      "meta_description_exists": true,
+      "canonical_exists": true,
+      "robots_exists": true,
+      "sitemap_exists": false,
+      "h1_count": 1,
+      "broken_links": 1
+    }
+  },
+  {
+    "siteId": "site-008",
+    "checks": {
+      "title_exists": true,
+      "meta_description_exists": true,
+      "canonical_exists": true,
+      "robots_exists": true,
+      "sitemap_exists": true,
+      "h1_count": 1,
+      "broken_links": 5
+    }
+  },
+  {
+    "siteId": "site-009",
+    "checks": {
+      "title_exists": true,
+      "meta_description_exists": false,
+      "canonical_exists": true,
+      "robots_exists": true,
+      "sitemap_exists": true,
+      "h1_count": 1,
+      "broken_links": 1
+    }
+  },
+  {
+    "siteId": "site-010",
+    "checks": {
+      "title_exists": true,
+      "meta_description_exists": true,
+      "canonical_exists": true,
+      "robots_exists": true,
+      "sitemap_exists": true,
+      "h1_count": 0,
+      "broken_links": 0
+    }
+  }
+]
